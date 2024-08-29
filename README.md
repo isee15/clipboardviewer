@@ -1,5 +1,6 @@
 ## ClipboardViewer
 写Windows客户端软件的是，经常遇到不同环境的复制粘贴问题，所有有了这个剪贴板查看工具，方便调试。
+Mac版在这儿：ClipboardViewer-for-Mac.zip
 
 Clipboard Viewer to Show clipboard content for windows. With multiple format
 
